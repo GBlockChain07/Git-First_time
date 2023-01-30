@@ -1,0 +1,2 @@
+user "rdb"
+password "hello"
